@@ -2,7 +2,10 @@
 Soy Desarrollador web JavaScript Full Stack.</h1>
 
 <a href="https://twitch.tv/jotredev" target="_blank">
-  <img width="50" alt="Logo Twitch" src="https://user-images.githubusercontent.com/50961956/194416681-2d005e54-2ef5-41a4-97a5-71f6ef629ab1.png">
+  <img width="30" alt="Logo Twitch" src="https://user-images.githubusercontent.com/50961956/194416681-2d005e54-2ef5-41a4-97a5-71f6ef629ab1.png">
+</a>
+<a href="https://www.youtube.com/channel/UCgA_JTg3zj1928UVAiG7uyg" target="_blank">
+  <img width="30" alt="Logo YouTube" src="https://user-images.githubusercontent.com/50961956/194417465-e9b9ee4b-06af-457d-acfd-b83d8fa9da27.png">
 </a>
 
 🔥 Transmisiónes en directo por Twitch 🔥
