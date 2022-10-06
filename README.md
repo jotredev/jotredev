@@ -1,6 +1,10 @@
 <h1>¡Hola 👋! Soy jotredev 👨🏻‍💻
 Soy Desarrollador web JavaScript Full Stack.</h1>
 
+<a href="https://twitch.tv/jotredev" target="_blank">
+  <img width="50" alt="Logo Twitch" src="https://user-images.githubusercontent.com/50961956/194416681-2d005e54-2ef5-41a4-97a5-71f6ef629ab1.png">
+</a>
+
 🔥 Transmisiónes en directo por Twitch 🔥
 
 Lunes, Miercoles y Viernes a las 9:00 PM hora México.
