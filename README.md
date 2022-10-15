@@ -1,5 +1,5 @@
 <h1>¡Hola 👋! Soy jotredev 👨🏻‍💻
-Soy diseñador web y desarrollador fullstack javascript.</h1>
+diseñador web y desarrollador fullstack javascript.</h1>
 
 <a href="https://twitch.tv/jotredev" target="_blank">
   <img width="30" alt="Logo Twitch" src="https://user-images.githubusercontent.com/50961956/194416681-2d005e54-2ef5-41a4-97a5-71f6ef629ab1.png">
