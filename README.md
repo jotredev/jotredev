@@ -10,7 +10,7 @@ diseñador web y desarrollador fullstack con +10 años de experiencia.</h1>
 
 🔥 Transmisiónes en directo por Twitch 🔥
 
-Lunes, Miercoles y Viernes a las 9:00 PM hora México.
+Lunes, Miercoles y Viernes a las 5:00 PM hora México.
 https://twitch.tv/jotredev
 
 ¡Sigue mi canal de YouTube 👇!
