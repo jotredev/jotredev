@@ -1,6 +1,6 @@
 # Hola 👋 Mi nombre es Jorge Luis Trejo Payan (jotredev)
 
-## 🚀 Desarrollador Frontend Senior | Especialista en interfaces modernas, animaciones avanzadas y sistemas escalables
+## 🚀 Ingeniero de Software | Desarrollador Frontend Senior | Especialista en interfaces modernas, animaciones avanzadas y sistemas escalables
 
 ### Certificaciones
 - [SCRUM Master](https://jorgeetrejoo-general.s3.us-west-1.amazonaws.com/Certificates/CertificateScrumMaster.pdf)
